@@ -1,0 +1,25 @@
+p{
+    color: red;
+}
+pre{
+    width: 10px;
+}
+
+span{
+    width: 10px;
+    color: blue;
+}
+
+table,tr,th,td{
+    border: 1px solid red;
+    /* border-style:dashed; */
+    border-collapse: collapse;
+    border-radius: 15px;
+}
+td{
+    padding: 5px;
+}
+table{
+    border-radius: 15px;
+    padding: 15px;
+}
